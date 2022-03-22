@@ -1,1 +1,1 @@
-# BigMart-Sales-Prediction
+# Loan-Elegibility-Prediction
